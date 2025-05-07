@@ -1,3 +1,5 @@
+[Note: this is mostly AI generated and untested]
+
 # TAP CMIO Rust Interface
 
 This project provides a Rust interface for interacting with the Machine I/O (CMIO) system. It implements the core functionality for communicating with the machine through the CMIO device.
